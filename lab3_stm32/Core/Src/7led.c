@@ -1,8 +1,8 @@
 /*
  * 7led.c
  *
- *  Created on: Nov 12, 2023
- *      Author: quoca
+ *  Created on: Nov 14, 2024
+ *      Author: vtrnn
  */
 #include "7led.h"
 void sevenledsetA(int value)

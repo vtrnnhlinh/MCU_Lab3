@@ -1,8 +1,8 @@
 /*
  * Button1.c
  *
- *  Created on: Nov 13, 2023
- *      Author: quoca
+ *  Created on: Nov 14, 2024
+ *      Author: vtrnn
  */
 #include "Button1.h"
 // 1 = NORMAL_STATE
